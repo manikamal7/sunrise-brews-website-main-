@@ -14,9 +14,6 @@ A responsive, visually rich website created for a fictional coffee brand. The pr
 - **UI Enhancements:** CSS Animations, Transitions  
 - **Design Tools:** Google Fonts, Flexbox/Grid layout
 
-## 📁 Folder Structure
-
-
 ## 🚀 Getting Started
 
 To run this project locally:
